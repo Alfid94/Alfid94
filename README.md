@@ -4,6 +4,7 @@ Dopo anni di studio come pianista e un background in filosofia, ho seguito la mi
 🚀 Il mio percorso
 
 Ho completato un bootcamp intensivo in Cybersecurity, sviluppando competenze in:
+
 ✅ Sicurezza e gestione delle reti
 ✅ Analisi e operazioni Red Team & Blue Team
 ✅ Identificazione e mitigazione delle vulnerabilità
