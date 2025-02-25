@@ -1,4 +1,5 @@
-La precisione e il metodo hanno sempre guidato il mio percorso, prima nella musica e oggi nella cybersecurity. Dopo anni di studio come pianista e un background in filosofia, ho seguito la mia passione per la sicurezza informatica, trasformandola in una carriera.
+La precisione e il metodo hanno sempre guidato il mio percorso, prima nella musica e oggi nella cybersecurity. 
+Dopo anni di studio come pianista e un background in filosofia, ho seguito la mia passione per la sicurezza informatica, trasformandola in una carriera.
 
 🚀 Il mio percorso
 Ho completato un bootcamp intensivo in Cybersecurity, sviluppando competenze in:
